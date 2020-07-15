@@ -1,0 +1,3 @@
+[submodule "tmpdir/versioned_dir"]
+	path = tmpdir/versioned_dir
+	url = https://github.com/chryswoods/versioned_dir.git
